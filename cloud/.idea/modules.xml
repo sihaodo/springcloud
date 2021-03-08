@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-ereuka-consumer-feign7011/cloud-ereuka-consumer-feign7011.iml" filepath="$PROJECT_DIR$/cloud-ereuka-consumer-feign7011/cloud-ereuka-consumer-feign7011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-ereuka-consumer7010/cloud-ereuka-consumer7010.iml" filepath="$PROJECT_DIR$/cloud-ereuka-consumer7010/cloud-ereuka-consumer7010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-ereuka-provider7005/cloud-ereuka-provider7005.iml" filepath="$PROJECT_DIR$/cloud-ereuka-provider7005/cloud-ereuka-provider7005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-ereuka-server7001/cloud-ereuka-server7001.iml" filepath="$PROJECT_DIR$/cloud-ereuka-server7001/cloud-ereuka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-getway7025/cloud-getway7025.iml" filepath="$PROJECT_DIR$/cloud-getway7025/cloud-getway7025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-nacos-consumer7030/cloud-nacos-consumer7030.iml" filepath="$PROJECT_DIR$/cloud-nacos-consumer7030/cloud-nacos-consumer7030.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-nacos-provider7035/cloud-nacos-provider7035.iml" filepath="$PROJECT_DIR$/cloud-nacos-provider7035/cloud-nacos-provider7035.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zookeeper-consumer7015/cloud-zookeeper-consumer7015.iml" filepath="$PROJECT_DIR$/cloud-zookeeper-consumer7015/cloud-zookeeper-consumer7015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zookeeper-provider7020/cloud-zookeeper-provider7020.iml" filepath="$PROJECT_DIR$/cloud-zookeeper-provider7020/cloud-zookeeper-provider7020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zookeeper-provider7021/cloud-zookeeper-provider7021.iml" filepath="$PROJECT_DIR$/cloud-zookeeper-provider7021/cloud-zookeeper-provider7021.iml" />
+    </modules>
+  </component>
+</project>

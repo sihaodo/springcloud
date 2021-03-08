@@ -1,0 +1,20 @@
+
+spring:
+    application:
+        name: cloud-getway
+    cloud:
+        zookeeper:
+            connect-string: localhost:2181
+        gateway:
+            discovery:
+                locator:
+                    enabled: true
+            routes:
+            - id: consumer_routh #id
+                #uri: http://localhost:8001 #匹配的路由地址
+              uri: lb://cloud-zookeeper-consumer
+              predicates:
+              - Path=/hello #断言路径匹配进行路由
+
+server:
+    port: 7025

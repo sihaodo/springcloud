@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-ereuka-consumer-feign7011" />
+        <module name="cloud-ereuka-consumer7010" />
+        <module name="cloud-ereuka-provider7005" />
+        <module name="cloud-ereuka-server7001" />
+        <module name="cloud-getway7025" />
+        <module name="cloud-nacos-consumer7030" />
+        <module name="cloud-nacos-provider7035" />
+        <module name="cloud-zookeeper-consumer7015" />
+        <module name="cloud-zookeeper-provider7020" />
+        <module name="cloud-zookeeper-provider7021" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud" target="1.5" />
+      <module name="cloud-center" target="1.8" />
+      <module name="cloud-comsumer" target="1.8" />
+      <module name="cloud-consumer-feign" target="1.8" />
+      <module name="cloud-ereuka-consumer-feign7011" target="1.5" />
+      <module name="cloud-ereuka-consumer7010" target="1.5" />
+      <module name="cloud-ereuka-provider7005" target="1.5" />
+      <module name="cloud-ereuka-server7001" target="1.5" />
+      <module name="cloud-ereuka-zookeeper7015" target="1.8" />
+      <module name="cloud-getway7025" target="1.5" />
+      <module name="cloud-nacos-consumer7030" target="1.5" />
+      <module name="cloud-nacos-provider7035" target="1.5" />
+      <module name="cloud-server" target="1.8" />
+      <module name="cloud-zookeeper-consumer7015" target="1.5" />
+      <module name="cloud-zookeeper-provider7020" target="1.5" />
+      <module name="cloud-zookeeper-provider7021" target="1.5" />
+      <module name="cloudnacosprovider7025" target="1.7" />
+      <module name="consumer-zookeeper" target="1.8" />
+      <module name="provider-zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud" options="-parameters" />
+      <module name="cloud-center" options="-parameters" />
+      <module name="cloud-comsumer" options="-parameters" />
+      <module name="cloud-consumer-feign" options="-parameters" />
+      <module name="cloud-ereuka-consumer-feign7011" options="" />
+      <module name="cloud-ereuka-consumer7010" options="" />
+      <module name="cloud-ereuka-provider7005" options="" />
+      <module name="cloud-ereuka-server7001" options="" />
+      <module name="cloud-ereuka-zookeeper7015" options="-parameters" />
+      <module name="cloud-nacos-consumer7030" options="" />
+      <module name="cloud-nacos-provider7035" options="" />
+      <module name="cloud-server" options="-parameters" />
+      <module name="cloud-zookeeper-consumer7015" options="" />
+      <module name="cloud-zookeeper-provider7020" options="" />
+      <module name="cloud-zookeeper-provider7021" options="" />
+      <module name="consumer-zookeeper" options="-parameters" />
+      <module name="provider-zookeeper" options="-parameters" />
+    </option>
+  </component>
+</project>

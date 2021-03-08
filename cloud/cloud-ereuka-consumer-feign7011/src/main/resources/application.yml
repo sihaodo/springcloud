@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: cloud-ereuka-consumer-feign7011
+
+server:
+  port: 7011
+eureka:
+  client:
+    register-with-eureka: false
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/

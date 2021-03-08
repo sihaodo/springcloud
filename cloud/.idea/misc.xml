@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-ereuka-server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-ereuka-provider7005/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-ereuka-consumer7010/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-ereuka-consumer-feign7011/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-zookeeper-consumer7015/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-zookeeper-provider7020/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-zookeeper-provider7021/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-getway7025/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-nacos-consumer7030/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-nacos-provider7035/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cloud-getway/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-nacos-provider7025/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

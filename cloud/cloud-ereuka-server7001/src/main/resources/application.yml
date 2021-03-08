@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: cloud-ereuka-server7001
+
+server:
+  port: 7001
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    serviceUrl:
+      defaultZone: http://localhost:${server.port}/eureka/

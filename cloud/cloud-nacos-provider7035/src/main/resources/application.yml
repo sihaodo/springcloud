@@ -1,0 +1,15 @@
+
+spring:
+    application:
+        name: cloud-nacos-provider
+    cloud:
+        nacos:
+            discovery:
+                server-addr: 192.168.0.103:8848
+            config:
+                namespace: 2fcc16cc-7f7d-4f08-a1fc-ca1b0150941e
+                group: consumer
+                file-extension: yml
+
+server:
+    port: 7035
